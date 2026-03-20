@@ -38,7 +38,7 @@ def create_normal_shader(*planes: str):
 def build_proxy_planes(joints, size=1, up_axis=1):
     if not joints:
         cmds.warning("Select at least one joint.")
-        return
+        return None
     planes = []
     nodes = []
     jntSizeFactor = cmds.jointDisplayScale(q=True)

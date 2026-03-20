@@ -1,2 +1,2 @@
 # Joint-Plane-Helper
-This tool help anyone orients skeleton properly by creating plane on each joints that helps visualizing if joints are coplanar or not.
+This tool help anyone orients skeleton properly by creating plane on each joint that helps visualize if joints are coplanar or not.
